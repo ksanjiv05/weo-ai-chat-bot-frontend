@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/weo-ai-chat-bot-frontend/static/css/main.cfd688c2.css",
+    "main.js": "/weo-ai-chat-bot-frontend/static/js/main.efa83049.js",
+    "static/js/453.2ec17264.chunk.js": "/weo-ai-chat-bot-frontend/static/js/453.2ec17264.chunk.js",
+    "static/media/no-voice.png": "/weo-ai-chat-bot-frontend/static/media/no-voice.b278ab3559830709039f.png",
+    "static/media/voice-message.png": "/weo-ai-chat-bot-frontend/static/media/voice-message.3b516ab08426d86ba49f.png",
+    "static/media/logo.svg": "/weo-ai-chat-bot-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/weo-ai-chat-bot-frontend/index.html",
+    "main.cfd688c2.css.map": "/weo-ai-chat-bot-frontend/static/css/main.cfd688c2.css.map",
+    "main.efa83049.js.map": "/weo-ai-chat-bot-frontend/static/js/main.efa83049.js.map",
+    "453.2ec17264.chunk.js.map": "/weo-ai-chat-bot-frontend/static/js/453.2ec17264.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfd688c2.css",
+    "static/js/main.efa83049.js"
+  ]
+}
